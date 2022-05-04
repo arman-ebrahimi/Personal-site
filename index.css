@@ -60,7 +60,6 @@
 			width: 30%;
 			padding: 10px 20px;
 			cursor: pointer;
-
 		}
 		.flex img{
 			width: 100%;
@@ -83,7 +82,7 @@
 			display: inline-block;
 			color: orange;
 		}
-		.container a{
+		.show{
 			display: block;
 			width: 170px;
 			text-decoration: none;
